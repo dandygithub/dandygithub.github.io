@@ -1,1 +1,10 @@
+title: GitHub Pages by Dandy
+description: GitHub Dandy's Site
+author: Dandy
+email: denis.bolotin.dandy@gmail.com
+github_username: dandygithub
+
+baseurl: ""
+url: "https://dandygithub.github.io"
+
 theme: jekyll-theme-modernist
