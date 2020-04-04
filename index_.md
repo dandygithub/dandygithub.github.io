@@ -8,3 +8,5 @@ layout: home
 Hello, world!
 
 My Kodi`s Addons page | [dandygithub.github.io/kodi](https://dandygithub.github.io/kodi)
+
+About this site | [dandygithub.github.io/about](https://dandygithub.github.io/about)

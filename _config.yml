@@ -31,11 +31,14 @@ url: "https://dandygithub.github.io" # the base hostname & protocol for your sit
 github_username: dandygithub
 
 # Build settings
+markdown: kramdown
 # theme: minima
 # theme: jekyll-theme-modernist
 theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
 
 # Exclude from processing.
 # The following items will not be processed, by default.
