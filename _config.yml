@@ -31,7 +31,9 @@ url: "https://dandygithub.github.io" # the base hostname & protocol for your sit
 github_username: dandygithub
 
 # Build settings
-theme: minima
+# theme: minima
+# theme: jekyll-theme-modernist
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
